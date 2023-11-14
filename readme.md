@@ -14,4 +14,4 @@
 
 想了解实现详细过程，扫以下二维码了解：
 
-![](https://github.com/testerhome/jmeter_mongodb/blob/master/2Dcode.png)
+![](https://wx2.sinaimg.cn/bmiddle/006oh24igy1hjusx1xd7dj30b40b4wec.jpg)
