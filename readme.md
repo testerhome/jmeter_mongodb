@@ -12,4 +12,5 @@
 
 本工程插件在jmeter 5.4.1版本下测试通过
 
-![](https://github.com/testerhome/jmeter_mongodb/blob/master/TesterHome%E5%AD%A6%E5%A0%82-Jmeter%E6%8F%92%E4%BB%B6%E5%BC%80%E5%8F%91.jpg)
+想了解实现详细过程，扫以下二维码了解：
+![](https://github.com/testerhome/jmeter_mongodb/blob/master/2Dcode.png)
